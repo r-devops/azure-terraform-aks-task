@@ -1,0 +1,4 @@
+variable "RGNAME"             {}
+variable "LOCATION"           {}
+
+
